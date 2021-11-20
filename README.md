@@ -19,13 +19,23 @@ The purpose of the project is to analyze weather data in Oahu to determine if th
 
 ## June Temperature Results
 
-Temperatures for the month of June from 2010 through 2017 show that the average temperature is 74.9. The minimum recorded during this date range is 64 degrees, and the maximum recorded is 85 degrees.
+Temperatures for the month of June from 2010 through 2017 show the following:
+
+- Average temperature is 74.9
+- Minimum temperature is 64 degrees
+- Maximum temperature is 85 degrees
 
 ![June_temps.png](/Resources/June_temps.jpg)
 
 ## December Temperature Results
 
-Temperatures for the month of December from 2010 through 2016 show that the average temperature is 71.0. The minimum recorded during this date range is 56 degrees, and the maximum recorded is 83 degrees. The data for December only goes through 2016, while the data for June contains an additional year's data (2017).
+Temperatures for the month of December from 2010 through 2016 show the following:
+
+- Average temperature is 71.0
+- Minimum temperature is 56 degrees
+- Maximum temperature is 83 degrees
+
+The data for December only goes through 2016, while the data for June contains an additional year's data (2017).
 
 ![December_temps.png](/Resources/December_temps.jpg)
 
