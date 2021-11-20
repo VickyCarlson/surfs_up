@@ -21,13 +21,13 @@ The purpose of the project is to analyze weather data in Oahu to determine if th
 
 Temperatures for the month of June from 2010 through 2017 show that the average temperature is 74.9. The minimum recorded during this date range is 64 degrees, and the maximum recorded is 85 degrees.
 
-![June_temps.png](/Resources/June_temps.png)
+![June_temps.png](/Resources/June_temps.jpg)
 
 ## December Temperature Results
 
 Temperatures for the month of December from 2010 through 2016 show that the average temperature is 71.0. The minimum recorded during this date range is 56 degrees, and the maximum recorded is 83 degrees. The data for December only goes through 2016, while the data for June contains an additional year's data (2017).
 
-![December_temps.png](/Resources/December_temps.png)
+![December_temps.png](/Resources/December_temps.jpg)
 
 ## Analysis
 
@@ -44,11 +44,11 @@ Other queries that would provide additional data for analysis are June and Decem
 ### December Precipitation
 The average precipitation for June from 2010 through 2017 is .13 inches, while the minimum recorded is 0 and the maximum is 4.43 inches.
 
-![June_prec.png](/Resources/June_prec.png)
+![June_prec.png](/Resources/June_prec.jpg)
 
 The average precipitation for December from 2010 through 2016 is .21 inches, while the minimum recorded is 0 and the maximum is 6.42 inches.
 
-![December_prec.png](/Resources/December_prec.png)
+![December_prec.png](/Resources/December_prec.jpg)
 
 The precipitation analysis shows that there is usually little difference between the precipitation in June and December, although December seems to be a bit more rainy than June. Overall, however, the skies seem to be perfect for this new venture.
 
